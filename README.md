@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hello there 👋
 
-<!--
-**george-markou/george-markou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is George Markou and this is my space where I get to share with all of you things I work on or experiment with :)
 
-Here are some ideas to get you started:
+#### What you will find here :school_satchel:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ☁️ Azure
+* 📟 PowerShell
+* 💪 Bicep Templates
+* :partly_sunny: Hyper-V
+* 🚀 Azure DevOps
+
+
+#### 📝 My blog
+
+https://www.markou.me
+
+
+#### 🐦 Follow me on Twitter
+
+<a href="https://twitter.com/george_markou" target="_blank">@george_markou</a>

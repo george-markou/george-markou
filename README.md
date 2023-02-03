@@ -6,7 +6,7 @@
 
 * ☁️ Azure
 * 📟 PowerShell
-* 💪 Bicep Templates
+* 💪 IaC Templates
 * :partly_sunny: Hyper-V
 * 🚀 Azure DevOps
 
